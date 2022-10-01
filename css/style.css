@@ -1,0 +1,18 @@
+body {
+    background: lightblue;
+}
+h1, p {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+p {
+margin: 20px 100px;
+}
+a {
+    color: blueviolet;
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
